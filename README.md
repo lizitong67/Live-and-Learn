@@ -17,6 +17,7 @@
 ## 4.1 Deep Learning
 ### 4.1.1 LSTM 
 - [人人都能看懂的LSTM](https://zhuanlan.zhihu.com/p/32085405)
+![LSTM工作原理](https://pic2.zhimg.com/80/v2-556c74f0e025a47fea05dc0f76ea775d_720w.jpg)
 - [人人都能看懂的GRU](https://zhuanlan.zhihu.com/p/32481747)
 
 
