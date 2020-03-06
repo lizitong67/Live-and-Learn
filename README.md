@@ -1,5 +1,5 @@
 # Live-and-Learn
-@[TOC]
+[TOC]
 
 # 1 Research
 ## 1.1 ATT&CK
