@@ -17,12 +17,12 @@ CamFlow is a Linux Security Module (LSM) designed to capture data provenance for
 - [Open Provenance](https://openprovenance.org/)
 
 - [A Python library for W3C Provenance Data Model (PROV)](https://prov.readthedocs.io/en/latest/)
-Features:
-1) An implementation of the W3C PROV Data Model in Python.
-2) In-memory classes for PROV assertions, which can then be output as PROV-N
-3) Serialization and deserialization support: PROV-O (RDF), PROV-XML and PROV-JSON.
-4) Exporting PROV documents into various graphical formats (e.g. PDF, PNG, SVG).
-5) Convert a PROV document to a Networkx MultiDiGraph and back.
+  - Features:
+An implementation of the W3C PROV Data Model in Python.
+In-memory classes for PROV assertions, which can then be output as PROV-N
+Serialization and deserialization support: PROV-O (RDF), PROV-XML and PROV-JSON.
+Exporting PROV documents into various graphical formats (e.g. PDF, PNG, SVG).
+Convert a PROV document to a Networkx MultiDiGraph and back.
 
 # 2 Security
 ## 2.1 恶意流量
