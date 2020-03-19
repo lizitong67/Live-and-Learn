@@ -13,6 +13,7 @@
   - Activities — An action that modify / create / delete Entities
   - Entities —Pictures, Files, Meat, Horse
   - Agent — Triggers actions and “owns” entities, used to track responsibilities
+  
 Cake Example
 ![](https://miro.medium.com/max/788/1*1KZXJRXeQu7iW8EeXDTdBw.png)
 
