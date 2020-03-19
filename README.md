@@ -10,6 +10,12 @@
 ## 1.2 Provenance
 - [Getting started with Provenance and Neo4j] (https://medium.com/neo4j/getting-started-with-provenance-and-neo4j-b50f666d8656)
 ![PROV-O concept](https://miro.medium.com/max/1050/1*cgrKoUQX8LkVBeus-PCu1Q.png)
+  - Activities — An action that modify / create / delete Entities
+  - Entities —Pictures, Files, Meat, Horse
+  - Agent — Triggers actions and “owns” entities, used to track responsibilities
+Cake Example
+![](https://miro.medium.com/max/788/1*1KZXJRXeQu7iW8EeXDTdBw.png)
+
 
 - [CamFlow](http://camflow.org/)
 CamFlow is a Linux Security Module (LSM) designed to capture data provenance for the purpose of system audit.
