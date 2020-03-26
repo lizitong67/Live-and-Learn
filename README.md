@@ -62,6 +62,9 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
   - 基于规则：不一致性检验；基于规则提取特征；基于模式的判断；
   - 基于概率：社区挖掘；标签传播；聚类
   - 基于动态网络的分析：dynamic network mining
+  
+## 4.3 Graph Neural Network
+- [NTU Graph Deep Learning Lab](https://github.com/graphdeeplearning)
 
 
 
