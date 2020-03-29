@@ -65,6 +65,8 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
   
 ## 4.3 Graph Neural Network
 - [NTU Graph Deep Learning Lab](https://github.com/graphdeeplearning)
+- [一文读懂图卷积GCN]（https://zhuanlan.zhihu.com/p/89503068）
+
 
 
 
