@@ -33,6 +33,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 # 2 Security
 ## 2.1 威胁情报
 - [威胁情报系列 (一)：什么是威胁情报](https://www.secrss.com/articles/16577)
+- [威胁情报系列（二）：威胁情报从哪里来](https://mp.weixin.qq.com/s/YlBy-QI98UBJD21L0u9NFg)
 
 
 
