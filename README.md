@@ -71,7 +71,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [一文读懂图卷积GCN](https://zhuanlan.zhihu.com/p/89503068)
 - [何时能懂你的心——图卷积神经网络（GCN）](https://zhuanlan.zhihu.com/p/71200936)
 - [GraphSAGE](https://zhuanlan.zhihu.com/p/74242097)
-- [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)**好文章!!**
+- [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
 
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
