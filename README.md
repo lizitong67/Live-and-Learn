@@ -4,8 +4,11 @@
 
 ## 1.1 ATT&CK
 - [网络攻击前沿：ATT&CK 模型一览](https://zhuanlan.zhihu.com/p/92581688)
-
 - [ATT&CK一般性学习笔记](https://bbs.pediy.com/thread-254825.htm)
+- [基于ATT&CK的APT威胁跟踪和狩猎](https://www.secrss.com/articles/13161)
+在 Observable或 Indicator 层面到 ATT&CK 的 Technique 层面存在一些层次上的缺失，中间应该包含一个富有更多上下文信息的复合结构，并且其能够容易映射到检测点以及实现规则的过滤，这里称为Behavior。
+
+
 
 ## 1.2 Provenance
 - [Getting started with Provenance and Neo4j] (https://medium.com/neo4j/getting-started-with-provenance-and-neo4j-b50f666d8656)
