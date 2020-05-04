@@ -44,6 +44,8 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [威胁情报系列（二）：威胁情报从哪里来](https://mp.weixin.qq.com/s/YlBy-QI98UBJD21L0u9NFg)
 
 
+## 2.2 安全技术
+- [DNS Tunnel](https://www.paloaltonetworks.com/cyberpedia/what-is-dns-tunneling)
 
 
 
