@@ -38,6 +38,9 @@ Serialization and deserialization support: PROV-O (RDF), PROV-XML and PROV-JSON�
 Exporting PROV documents into various graphical formats (e.g. PDF, PNG, SVG)；
 Convert a PROV document to a Networkx MultiDiGraph and back.
 
+## 1.3 Moving Target Defense (MTD)
+- [移动目标防御（MTD）关键技术研究](http://m.chinaaet.com/article/3000018916)
+
 # 2 Security
 ## 2.1 威胁情报
 - [威胁情报系列 (一)：什么是威胁情报](https://www.secrss.com/articles/16577)
