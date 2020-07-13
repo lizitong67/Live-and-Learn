@@ -50,7 +50,8 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 ## 2.2 安全技术
 - [DNS Tunnel](https://www.paloaltonetworks.com/cyberpedia/what-is-dns-tunneling)
 - [DGA域名](https://www.secrss.com/articles/14369)
-- [内网渗透基础知识]（http://mang0.me/archis/7db24e65/）
+- [内网渗透基础知识](http://mang0.me/archis/7db24e65/)
+
 
 ## 2.3 杂谈
 - [国内网络主动防御技术现状探讨](https://www.secrss.com/articles/15495)
