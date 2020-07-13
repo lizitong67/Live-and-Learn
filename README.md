@@ -55,6 +55,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 ## 2.3 杂谈
 - [国内网络主动防御技术现状探讨](https://www.secrss.com/articles/15495)
+- [揭秘阿里云WAF背后神秘的AI智能防御体系](https://developer.aliyun.com/article/723263)
 
 
 # 3 Mathematics
