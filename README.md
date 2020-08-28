@@ -17,12 +17,10 @@
 
 ## 1.2 Provenance
 - [Getting started with Provenance and Neo4j] (https://medium.com/neo4j/getting-started-with-provenance-and-neo4j-b50f666d8656)
-![PROV-O concept](https://miro.medium.com/max/1050/1*cgrKoUQX8LkVBeus-PCu1Q.png)
   - Activities — An action that modify / create / delete Entities
   - Entities —Pictures, Files, Meat, Horse
   - Agent — Triggers actions and “owns” entities, used to track responsibilities
   
-![](https://miro.medium.com/max/788/1*1KZXJRXeQu7iW8EeXDTdBw.png)
 
 
 - [CamFlow](http://camflow.org/)
@@ -76,7 +74,6 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 ### 4.1.1 LSTM 
 - [人人都能看懂的LSTM](https://zhuanlan.zhihu.com/p/32085405)
-![LSTM工作原理](https://pic2.zhimg.com/80/v2-556c74f0e025a47fea05dc0f76ea775d_720w.jpg)
 
 - [人人都能看懂的GRU](https://zhuanlan.zhihu.com/p/32481747)
 
