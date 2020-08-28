@@ -52,6 +52,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [DGA域名](https://www.secrss.com/articles/14369)
 - [内网渗透基础知识](http://mang0.me/archis/7db24e65/)
 - [DNS Tunnel隧道隐蔽通信实验 && 尝试复现特征向量化思维方式检测](https://www.cnblogs.com/LittleHann/p/8656621.html) 
+- [Powershell+dnscat2实现DNS隐蔽隧道反弹Shell，和检测方法](https://mp.weixin.qq.com/s/5mDhzuGC2WEc8bdIjRg94w)
 
 
 ## 2.3 杂谈
