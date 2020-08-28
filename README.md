@@ -16,7 +16,7 @@
 
 
 ## 1.2 Provenance
-- [Getting started with Provenance and Neo4j] (https://medium.com/neo4j/getting-started-with-provenance-and-neo4j-b50f666d8656)
+- [Getting started with Provenance and Neo4j](https://medium.com/neo4j/getting-started-with-provenance-and-neo4j-b50f666d8656)
   - Activities — An action that modify / create / delete Entities
   - Entities —Pictures, Files, Meat, Horse
   - Agent — Triggers actions and “owns” entities, used to track responsibilities
