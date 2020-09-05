@@ -97,6 +97,8 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 - [GraphSAGE](https://zhuanlan.zhihu.com/p/74242097)
 
+- [GraphSAGE](https://blog.csdn.net/yyl424525/article/details/100532849) 
+
 - [从图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
 
 - [中科院计算所沈华伟：图神经网络表达能力的回顾和前沿](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247508211&idx=1&sn=d9059b2b80e2d2ac0a3094ca5c897284&chksm=9094a960a7e32076ce4e0f0cd6b99b1aa9d9b4cf049a1695a642b497e0320ef9b7bb0f981e8d&mpshare=1&scene=1&srcid=&sharer_sharetime=1593152170728&sharer_shareid=ca1742c0d2e24f8344d5b319b948d465&key=8c1e0ba910e0936a985ece58961c3915f3a9a6efd4abdbe9d8bde53f5086fc0d5da8d2b2734de73c04b7c9d18644fbd4d98c8fba0f56a178db17f1c0922ddd306d83f11f1f5e6740ab0c16d6601de391&ascene=1&uin=MTI5NjM0ODk2NA%3D%3D&devicetype=Windows+10+x64&version=6209007b&lang=zh_CN&exportkey=AUbb6c4yneRRptukebRrDTA%3D&pass_ticket=%2Fb7GKbJfPjag0NzUZwdk1MqFhl162QnSmgbUc62vxHypVyJ6PTkjWgv8Wukf%2Fi9r)
