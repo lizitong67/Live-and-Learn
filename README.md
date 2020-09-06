@@ -69,6 +69,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 - [模糊聚类](https://blog.csdn.net/changyuanchn/article/details/80427893)
 - [吴恩达教授机器学习课程: 第14章--异常检测](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12281897.0.0.48f239a9jbA1E9&postId=59235)
+- [无监督学习](https://easyai.tech/ai-definition/unsupervised-learning/)
 
 ## 4.1 Deep Learning
 
