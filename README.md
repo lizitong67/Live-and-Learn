@@ -54,7 +54,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [windows域环境下认证和攻击初识](https://mp.weixin.qq.com/s/4eroblcVS0dwo26fbzA3-Q)
 
 
-## 2.3 杂
+## 2.3 MISC
 - [国内网络主动防御技术现状探讨](https://www.secrss.com/articles/15495)
 - [揭秘阿里云WAF背后神秘的AI智能防御体系](https://developer.aliyun.com/article/723263)
 - [《对抗中的主动防御》](https://zhuanlan.zhihu.com/p/129713923)
