@@ -54,10 +54,14 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [windows域环境下认证和攻击初识](https://mp.weixin.qq.com/s/4eroblcVS0dwo26fbzA3-Q)
 
 
-## 2.3 杂谈
+## 2.3 杂
 - [国内网络主动防御技术现状探讨](https://www.secrss.com/articles/15495)
 - [揭秘阿里云WAF背后神秘的AI智能防御体系](https://developer.aliyun.com/article/723263)
 - [《对抗中的主动防御》](https://zhuanlan.zhihu.com/p/129713923)
+- [SIEM](https://cloud.tencent.com/developer/article/1013572)
+  - 监视用户行为+网络行为
+  - 真正的机会是预见性的修复
+  - 鉴于流经SIEM系统的部分数据比较敏感，目前大型企业用户习惯在本地运行SIEM软件。
 
 
 # 3 Mathematics
