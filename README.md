@@ -123,3 +123,9 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 # 6 图论
 - [图的支配集、覆盖集与独立集](http://kklin.farbox.com/post/ji-suan-ji-li-lun/tu-lun/7-zhi-pei-ji-fu-gai-ji-du-li-ji-yu-pi-pei/1-tu-de-dian-zhi-pei-ji-dian-fu-gai-ji-yu-dian-du-li-ji)
 
+# 7 Web
+- [如何理解Nginx, WSGI, Flask之间的关系](https://blog.csdn.net/lihao21/article/details/52304119)
+
+
+
+
