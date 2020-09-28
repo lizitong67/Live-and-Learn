@@ -78,6 +78,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [K-means和K-medoids](https://blog.csdn.net/databatman/article/details/50445561)
 
 ## 4.1 Deep Learning
+- [60题PyTorch简易入门指南](https://www.kesci.com/home/project/5e0038642823a10036ae9ebf)
 
 ### 4.1.1 LSTM 
 - [人人都能看懂的LSTM](https://zhuanlan.zhihu.com/p/32085405)
