@@ -62,6 +62,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
   - 监视用户行为+网络行为
   - 真正的机会是预见性的修复
   - 鉴于流经SIEM系统的部分数据比较敏感，目前大型企业用户习惯在本地运行SIEM软件。
+- [NIST标准《零信任架构》](https://www.secrss.com/articles/15127)
 
 
 # 3 Mathematics
@@ -122,11 +123,4 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 
 # 6 图论
-- [图的支配集、覆盖集与独立集](http://kklin.farbox.com/post/ji-suan-ji-li-lun/tu-lun/7-zhi-pei-ji-fu-gai-ji-du-li-ji-yu-pi-pei/1-tu-de-dian-zhi-pei-ji-dian-fu-gai-ji-yu-dian-du-li-ji)
-
-# 7 Web
-- [如何理解Nginx, WSGI, Flask之间的关系](https://blog.csdn.net/lihao21/article/details/52304119)
-
-
-
-
+- [图的支配集、覆盖集
