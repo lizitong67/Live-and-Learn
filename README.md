@@ -119,6 +119,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 而在图表示问题上，由于GNN非单射的聚合方式，把原本不一样的东西聚合后变得一样了，这让GNN丧失了表达能力。 更直白一些，WL Test是一个单射函数，GNN不是单射函数，于是WL Test为GNN的表达能力提供了一个理论上的上界。（注：这里GNN说的是通过邻居聚合，如果别的聚合方式，性能可能超过WL test的）。同时ICLR 2019这篇论文又提出了GIN这一有着单射聚合函数的图神经网络，并对其表达能力进行了验证。
 
 -[图表示学习及其无监督损失函数](https://www.infoq.cn/article/sWzLpqkg70TQhlwQcDhI)
+-[Self-Attention 加速方法一览：ISSA、CCNet、CGNL、Linformer](https://zhuanlan.zhihu.com/p/270898373)
 
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
