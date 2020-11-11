@@ -3,6 +3,7 @@
 # 1 Research
 - [面向图数据的异常检测综述概述](https://mp.weixin.qq.com/s/WBxmr_hCOVUbSk15ZPWsjw)
 - [《透视APT》读书笔记](https://xz.aliyun.com/t/8335)
+- [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035)
 ## 1.1 ATT&CK
 - [网络攻击前沿：ATT&CK 模型一览](https://zhuanlan.zhihu.com/p/92581688)
 
