@@ -122,6 +122,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [图表示学习及其无监督损失函数](https://www.infoq.cn/article/sWzLpqkg70TQhlwQcDhI)
 - [Self-Attention 加速方法一览：ISSA、CCNet、CGNL、Linformer](https://zhuanlan.zhihu.com/p/270898373)
 - [向往的GAT（图注意力模型）](https://zhuanlan.zhihu.com/p/81350196) 
+- [图表示学习中的Encoder-Decoder框架](https://mp.weixin.qq.com/s/0lNeSjpm4lbu_8mopWJ2oA) 
 
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
