@@ -66,6 +66,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
   - 鉴于流经SIEM系统的部分数据比较敏感，目前大型企业用户习惯在本地运行SIEM软件。
 - [NIST标准《零信任架构》](https://www.secrss.com/articles/15127)
 - [Inside Microsoft Threat Protection: Attack modeling for finding and stopping lateral movement](https://www.microsoft.com/security/blog/2020/06/10/the-science-behind-microsoft-threat-protection-attack-modeling-for-finding-and-stopping-evasive-ransomware/)
+- [正向代理和反向代理](https://juejin.cn/post/6844903782556368910)
 
 # 3 Mathematics
 ## 3.1 Game Theory
