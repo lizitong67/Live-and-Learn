@@ -125,6 +125,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [向往的GAT（图注意力模型）](https://zhuanlan.zhihu.com/p/81350196) 
 - [图表示学习中的Encoder-Decoder框架](https://mp.weixin.qq.com/s/0lNeSjpm4lbu_8mopWJ2oA)
 - [DGL博客 | 深入理解图注意力机制](https://zhuanlan.zhihu.com/p/57168713)
+- [DGL视频教程](Learning Graph Neural Networks with Deep Graph Library)
 
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
