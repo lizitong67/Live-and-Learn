@@ -38,6 +38,8 @@ Serialization and deserialization support: PROV-O (RDF), PROV-XML and PROV-JSON�
 Exporting PROV documents into various graphical formats (e.g. PDF, PNG, SVG)；
 Convert a PROV document to a Networkx MultiDiGraph and back.
 
+- [Threat Hunting with ETW events and HELK — Part 1: Installing SilkETW](https://medium.com/threat-hunters-forge/threat-hunting-with-etw-events-and-helk-part-1-installing-silketw-6eb74815e4a0)
+
 ## 1.3 Moving Target Defense (MTD)
 - [移动目标防御（MTD）关键技术研究](http://m.chinaaet.com/article/3000018916)
 
