@@ -132,6 +132,9 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [DGL博客 | 深入理解图注意力机制](https://zhuanlan.zhihu.com/p/57168713)
 - [DGL视频教程](Learning Graph Neural Networks with Deep Graph Library)
 
+## 4.4 PyTorch and DGL
+- [Torch的广播机制](https://zhuanlan.zhihu.com/p/86997775)
+
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
 - [LXC/LXD命令](https://www.machunjie.com/linux/560.html)
