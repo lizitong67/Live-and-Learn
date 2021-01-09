@@ -131,6 +131,9 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [图表示学习中的Encoder-Decoder框架](https://mp.weixin.qq.com/s/0lNeSjpm4lbu_8mopWJ2oA)
 - [DGL博客 | 深入理解图注意力机制](https://zhuanlan.zhihu.com/p/57168713)
 - [DGL视频教程](Learning Graph Neural Networks with Deep Graph Library)
+- [DGL框架tutorial小结](https://zhuanlan.zhihu.com/p/129746618)
+  - g.ndata.pop('x') 可以移除节点的表征，可以在计算过程中节省内存
+
 
 ## 4.4 PyTorch and DGL
 - [Torch的广播机制](https://zhuanlan.zhihu.com/p/86997775)
