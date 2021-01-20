@@ -74,6 +74,8 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [正向代理和反向代理](https://juejin.cn/post/6844903782556368910)
 
 # 3 Mathematics
+- [线性代数的本质](https://www.bilibili.com/video/BV1ib411t7YR?t=8&p=4)
+
 ## 3.1 Game Theory
 - [博弈论速成指南：那些融入深度学习的经典想法和新思路](https://zhuanlan.zhihu.com/p/110773996)
 
@@ -137,6 +139,9 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 
 ## 4.4 PyTorch and DGL
 - [Torch的广播机制](https://zhuanlan.zhihu.com/p/86997775)
+
+## 4.5 Anomaly Detection
+- [数据挖掘中常见的「异常检测」算法有哪些？](https://www.zhihu.com/question/280696035)
 
 # 5 Linux
 - [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
