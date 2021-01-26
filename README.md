@@ -88,6 +88,7 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [K-means和K-medoids](https://blog.csdn.net/databatman/article/details/50445561)
 - [机器学习综述](https://mp.weixin.qq.com/s/3JV17K6URQ5rO9BsIMJI-w)
 - [Contextual Bandits: LinUCB](https://zhuanlan.zhihu.com/p/32382432)
+- [机器学习性能评价指标汇总](https://cloud.tencent.com/developer/article/1694996)
 ## 4.1 Deep Learning
 - [60题PyTorch简易入门指南](https://www.kesci.com/home/project/5e0038642823a10036ae9ebf)
 - [浅谈mask矩阵 ](http://www.linzehui.me/2018/10/12/%E7%A2%8E%E7%89%87%E7%9F%A5%E8%AF%86/%E6%B5%85%E8%B0%88mask%E7%9F%A9%E9%98%B5/)
