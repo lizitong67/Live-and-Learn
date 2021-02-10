@@ -73,6 +73,12 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 - [Inside Microsoft Threat Protection: Attack modeling for finding and stopping lateral movement](https://www.microsoft.com/security/blog/2020/06/10/the-science-behind-microsoft-threat-protection-attack-modeling-for-finding-and-stopping-evasive-ransomware/)
 - [正向代理和反向代理](https://juejin.cn/post/6844903782556368910)
 
+## 2.4 WAF
+
+- [Nginx与反向代理](https://blog.csdn.net/weixin_38719347/article/details/104576946)
+  - 当一个代理服务器能够代理外部网络的主机,访问内部网络时,就称他为反向代理.此时代理服务器对外表现为一个Web服务器
+  - Nginx优点：**模块化、事件驱动、异步、非阻塞、多进程单线程**
+
 # 3 Mathematics
 - [线性代数的本质](https://www.bilibili.com/video/BV1ib411t7YR?t=8&p=4)
 
@@ -150,3 +156,21 @@ Convert a PROV document to a Networkx MultiDiGraph and back.
 # 6 Machine Learning for Cyber Security
 
 - [Machine Learning for Cybersecurity 101](https://towardsdatascience.com/machine-learning-for-cybersecurity-101-7822b802790b)
+
+  - All security tasks can be divided into five categories:
+
+    - prediction;
+    - prevention;
+    - detection;
+    - response;
+    - monitoring.
+
+  - technical layer：
+
+    - network (network traffic analysis and intrusion detection);
+    - endpoint (anti-malware);
+    - application (WAF or database firewalls);
+    - user (UBA);
+    - process (anti-fraud).
+
+    
